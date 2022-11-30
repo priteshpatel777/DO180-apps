@@ -9296,4 +9296,6 @@ repositories in quay.io is limited, depending on the namespace plan.
 Default Repository Visibility
 Repositories created by pushing images to quay.io are private by default. In order OpenShift (or
 any other tool) to fetch those images you can either configure a private key in both OpenShift and
-Quay, or make the repository public, so no authentication is
+Quay, or make the repository public, so no authentication isi
+
+
